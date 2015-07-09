@@ -1,0 +1,7 @@
+<suite name="Tests">
+<test name="DummyTests" >     
+<packages> 
+      <package name="DummyTestNGTests2" /> 
+   </packages> 
+  </test> 
+</suite>
