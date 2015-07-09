@@ -1,4 +1,4 @@
-package DummyTestNGTests;
+package DummyTestNGTests1;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
