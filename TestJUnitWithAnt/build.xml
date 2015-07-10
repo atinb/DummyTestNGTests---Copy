@@ -25,16 +25,15 @@
       <junit fork="no" haltonfailure="false" printsummary="false" haltonerror="true" showoutput="true">
          <classpath refid="classpath.test" />
          <formatter type="plain" usefile="false" />
-<!--         <test name="ClientTest" methods="testA,testB" /> -->
+         <test name="ClientTest" methods="testA,testB" />
 <!--         <test name="TestMessageUtil" /> -->
 <!--         <test name="JunitTestSuite" /> -->
 <!--         <batchtest>
            <fileset dir="${srcdir}">
              <include name="**/*Test*.java"/>
              <exclude name="**/ClientTest1.java"/>
-           </fileset> -->
-         </batchtest>
-
+           </fileset>
+         </batchtest> -->
       </junit>
    </target>
 </project>
