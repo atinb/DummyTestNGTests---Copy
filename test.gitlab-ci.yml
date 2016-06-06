@@ -1,7 +1,0 @@
-test:
-  override:
-    - bundle exec junit
-        parallel: true
-        files:
-          - src/dummytestngtests/clienttest.java
-          - src/dummytestngtests/servertest.java  
